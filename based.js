@@ -2,6 +2,7 @@ based.js application/javascript
 (function() {
     if ( /(^|\.)youtube\.com$/.test(document.location.href) === false ) { return; }
 	
+    console.log("Checked 21");
     'use strict';
     var closeAd=function (){
         var css = '.video-ads .ad-container .adDisplay,#player-ads,.ytp-ad-module,.ytp-ad-image-overlay{ display: none!important; }',
