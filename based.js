@@ -1,6 +1,6 @@
 based.js application/javascript
 (function() {
-    if ( /(^|\.)youtube\.com$/.test(document.location.hostname) === false ) { return; }
+    if ( /(^|\.)youtube\.com$/.test(document.location.href) === false ) { return; }
 	
     'use strict';
     var closeAd=function (){
