@@ -1,6 +1,6 @@
 based.js application/javascript
 (function() {
-    if ( /(^|\.)youtube\.com$/.test(document.location.href) === false ) { return; }
+    //if ( /(^|\.)youtube\.com$/.test(document.location.href) === false ) { return; }
 	
     console.log("Checked 21");
     'use strict';
