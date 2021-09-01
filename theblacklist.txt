@@ -24,6 +24,7 @@ dexpredict.com
 disqus.com
 disquscdn.com
 doubleclick.net
+durationmedia.net
 evidon.com
 firstimpression.io
 g.doubleclick.net
